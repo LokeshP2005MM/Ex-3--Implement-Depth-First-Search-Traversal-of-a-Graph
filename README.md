@@ -1,8 +1,8 @@
 # Ex-3-Implement-Depth-First-Search-Traversal-of-a-Graph
 
-**Name:**
+Name:LOKESH P
 
-**Register Number:**
+Register Number:2305001015
 
 ### Aim:
 To Implement Depth First Search Traversal of a Graph using Python 3.
@@ -68,4 +68,18 @@ Graph: {'A': ['B', 'C'], 'B': ['A', 'D', 'E'], 'C': ['A', 'E'], 'D': ['B', 'E'],
 
 DFS Traversal Path: ['A', 'B', 'D', 'E', 'C']
 
-**Result:**
+### Input:
+A B
+B C
+C D
+done
+
+### Output:
+Graph: {'A': ['B'], 'B': ['A', 'C'], 'C': ['B', 'D'], 'D': ['C']}
+
+DFS Traversal Path: ['A', 'B', 'C', 'D']
+
+
+
+### Result:
+The above program is executed successfully.
